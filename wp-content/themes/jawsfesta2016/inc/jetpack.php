@@ -65,6 +65,10 @@ add_action( 'loop_start', 'jptweak_remove_share' );
  * ) );
  */
 
+// ToDO
+// WordPress Jetpackのパプリサイズ共有で常にハッシュタグなどを付けたい
+// http://qiita.com/gatespace/items/3306a77f045c27bda114
+
 add_filter( 'wpas_default_suffix', 'jawsfesta_wpas_default_suffix' );
 function jawsfesta_wpas_default_suffix( $suffix ) {
 	$suffix = $suffix . " #jawsfesta #jawsug";

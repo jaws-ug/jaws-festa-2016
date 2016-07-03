@@ -19,9 +19,9 @@ get_header(); ?>
 		<main id="main" class="site-main" role="main">
 			<div class="main-image">
 			<?php if ( get_header_image() ) : ?>
-				<img src="<?php header_image(); ?>" width="<?php echo esc_attr( get_custom_header()->width ); ?>" height="<?php echo esc_attr( get_custom_header()->height ); ?>" alt="JAWS DAYS 2016">
+				<img src="<?php header_image(); ?>" width="<?php echo esc_attr( get_custom_header()->width ); ?>" height="<?php echo esc_attr( get_custom_header()->height ); ?>" alt="JAWS FESTA 2016">
 			<?php else: // End header image check. ?>
-				<img src="<?php echo get_template_directory_uri(); ?>/images/default-image.png" alt="JAWS DAYS 2016" width="878" height="400" />
+				<img src="<?php echo get_template_directory_uri(); ?>/images/default-image.png" alt="JAWS FESTA 2016" width="878" height="410" />
 			<?php endif; // End header image check. ?>
 			</div>
 		</main><!-- #main -->

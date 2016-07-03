@@ -19,7 +19,7 @@ get_header(); ?>
 
 				<div class="page-content hentry">
 					<h2>Comming soon...</h2>
-					<p>これから、Facebookページ <a href="https://www.facebook.com/JawsFesta/" target="_blank">/JAWS Festa</a> とTwitter: <a href="https://twitter.com/JAWSFESTA2015" target="_blank">@JAWSFESTA2015</a> で告知をしていきます。<br>
+					<p>これから、Facebookページ <a href="https://www.facebook.com/JawsFesta/" target="_blank">/JAWS Festa</a> とTwitter: <a href="https://twitter.com/jawsug_toukaido" target="_blank">@jawsug_toukaido</a> で告知をしていきます。<br>
 					是非、フォローをお願いします！！</p>
 				</div><!-- .page-content -->
 			</section><!-- .error-404 -->
