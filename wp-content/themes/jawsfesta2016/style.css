@@ -902,6 +902,7 @@ body.home .site-content {
 }
 body.home .main-image {
   text-align: center;
+  line-height: 0;
 }
 
 .site-content .widget-area {
